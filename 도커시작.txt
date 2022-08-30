@@ -1,0 +1,1 @@
+docker exec -it 컨테이너 이름 bash
