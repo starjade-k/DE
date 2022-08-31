@@ -1,0 +1,16 @@
+docker pull azimemory/singlenode
+
+
+# With explicit path to 'hadoop' binary
+export SPARK_DIST_CLASSPATH=$(/path/to/hadoop/bin/hadoop classpath)
+
+cp: 리눅스에서 파일을 복사하는 명령어
+vim: 텍스트파일을 열 때 사용하는 명령어
+which 파일명: 파일 경로 확인하는 명령어
+
+vim으로 텍스트파일 열고 /를 누르고 원하는 검색어입력 후 엔터치면 커서가 옮겨짐
+만약 정확한 파일명을 모르면 apple이면 app만 치고 n 누르면 아래로 내려감
+
+하둡올리고 spark 실행
+
+pyspark --master yarn
