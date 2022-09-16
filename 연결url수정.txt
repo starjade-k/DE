@@ -1,0 +1,2 @@
+jdbc:oracle:thin:@decorona1_high?TNS_ADMIN=/big/note/db/Wallet_*******
+ @이후부터 ? 전까지 자신의 월렛 파일안에 tns파일 연후에 같은 곳 수정
