@@ -1,0 +1,2 @@
+c.NotebookApp.max_buffer_size = 10000000000000000
+주피터 용량 수정
