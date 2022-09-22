@@ -1,0 +1,9 @@
+sudo service ssh start
+
+후에 
+hdfs namenode -format
+hdfs datanode -format
+
+후에
+
+start-dfs.sh
